@@ -204,14 +204,6 @@ We are proud of our achievements with CreditShield. While there are no immediate
 - **Frontend**: React, TailwindCSS
 - **Backend**: FastAPI, Flask
 - **Database**: MongoDB
-
-## Team
-
-- [Parker Blume](https://github.com/parkerblume/)
-- [Garrison Scarboro](https://github.com/gscarboro)
-- [Darren Bansil](https://github.com/libioco)
-- [Camilo Alvarez-Velez](https://github.com/noway-code)
-
 ## License
 
 This project is licensed under the **GPLv3 License** - see the [LICENSE](LICENSE) file for details.
